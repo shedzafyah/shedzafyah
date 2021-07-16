@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Shelton aka Shedza fyah 
 
-<!--
-**shedzafyah/shedzafyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I'm an aspiring passionate java developer & i love to share my expertise with the dev community. Open to all DMs 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on java full stack
+- 🌱 I’m currently learning Backend & APIs
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Backend & APIs
+- 💬 Ask me about Core java,JPA,Spring
+- 📫 How to reach me: sheltshamu@gmail.com & Twitter @sheltshamu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: coming soon
+
+
+
+
