@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend & APIs
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Core java || JPA || Spring framework || Springboot
-- ⚡ Fun fact: coming soon
+- ⚡ Fun fact: I dont argue with fools because i know about NullPointerException
 
 ### Social
 <a href="https://twitter.com/sheltonshamu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
