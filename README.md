@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=shedzafyah)
 ### Yeah that's right Shelton is my name.. 
 ### Hello there 👋,  
 
