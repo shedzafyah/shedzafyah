@@ -1,4 +1,4 @@
-###Yeah that's right Shelton is my name.. 
+### Yeah that's right Shelton is my name.. 
 ### Hello there 👋,  
 
 I'm an Aspiring Passionate Java Developer & I like to share my expertise with the dev community. Open to all DMs 
