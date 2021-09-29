@@ -1,11 +1,10 @@
-### Hello there 👋, I am Shelton aka Shedza fyah 
+###Yeah that's right Shelton is my name.. 
+### Hello there 👋,  
 
-
-I'm an aspiring passionate java developer & i love to share my expertise with the dev community. Open to all DMs 
+I'm an Aspiring Passionate Java Developer & I like to share my expertise with the dev community. Open to all DMs 
 
 - 🌱 I’m currently learning Backend & APIs
-- 🤔 I’m looking for help with Backend & APIs
-- 💬 Ask me about Core java (Java 8) || JPA || Spring framework || Springboot
+- 💬 Ask me about || Core java (Java 8) || JPA || Spring framework || Springboot
 - ⚡ Fun fact: I dont argue with fools because i know about NullPointerException
 
 ### Social
